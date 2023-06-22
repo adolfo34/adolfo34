@@ -1,5 +1,5 @@
 ![DC Banner](https://user-images.githubusercontent.com/65373279/116761730-055f0000-aa36-11eb-80b0-96f321958926.png)
-<h1 align="center">Hi there! 👋, I'm Adolfo</h1>
+<h1 align="center">Hi World! 👋, I'm Adolfo</h1>
 <h3 align="center">I am a telecommunications engineering student from Peru.</h3>
 
 - 🌱 I’m currently learning **Programming**
